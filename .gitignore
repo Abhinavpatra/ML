@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IPython profiles and history
+.ipython/
+profile_default/
+history.sqlite
+
+# Generated data and outputs
+# (Uncomment if you do not want to commit data files)
+# *.csv
+# *.json
+# *.xlsx
+# *.pkl
+# *.pickle
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

@@ -1,0 +1,13 @@
+flask
+streamlit
+
+scikit-learn
+
+
+
+
+# Numpy
+numpy
+matplotlib
+
+seaborn
