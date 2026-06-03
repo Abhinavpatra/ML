@@ -2,12 +2,11 @@ flask
 streamlit
 
 scikit-learn
-
-
-
-
 # Numpy
 numpy
 matplotlib
 
 seaborn
+
+nltk
+textblob
